@@ -11,7 +11,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-05-26T23:08:47+0530",
+    date = "2023-05-26T23:50:24+0530",
     comments = "version: 1.5.3.Final, compiler: javac, environment: Java 17.0.2 (Amazon.com Inc.)"
 )
 public class ContactMapperImpl implements ContactMapper {
